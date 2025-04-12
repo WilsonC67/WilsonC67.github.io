@@ -2,10 +2,6 @@ h1 {
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.site-background {
-    background-color:#0f8eb9;
-}
-
 ul {
   list-style-type: none;
   margin: 0px;
@@ -24,6 +20,8 @@ li a {
   text-align: center;
   padding: 15px 224px;
   text-decoration:wavy;
+  background-color: rebeccapurple;
+
 }
 
 li a:hover {

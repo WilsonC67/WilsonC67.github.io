@@ -23,9 +23,9 @@ li a {
     text-align: center;
     padding: 15px 215px;
     text-decoration:wavy;
-    background-color: black;
+    background-color: rebeccapurple;
 }
 
 li a:hover {
-    background-color: blueviolet;
+    background-color: green;
 }
