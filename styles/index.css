@@ -1,3 +1,31 @@
 h1 {
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.site-background {
+    background-color:#0f8eb9;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: rebeccapurple;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 15px 224px;
+  text-decoration:wavy;
+}
+
+li a:hover {
+  background-color: green;
+}
